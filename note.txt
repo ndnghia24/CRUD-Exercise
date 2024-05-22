@@ -1,0 +1,5 @@
+npm i
+
+vào file config sửa cấu hình kết nối db
+
+sửa một số lỗi trên giao diện, db
